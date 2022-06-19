@@ -1,0 +1,30 @@
+body{
+    background-color: #A6CDDD;
+}
+
+h1{
+    margin-left:4%;
+}
+
+.zone{
+    margin-top:6%;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 5%;
+}
+
+.question{
+    font-size: x-large;
+    margin-left: 5%;
+}
+
+button{
+    float: right;
+    width: 45%;
+    height: 200px;
+    background-color: #01ACC4;
+    border: solid black 2px;
+    margin-bottom: 5%;
+    margin-top:5%;
+    font-size: xx-large;
+}

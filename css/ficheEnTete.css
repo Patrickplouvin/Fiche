@@ -1,0 +1,42 @@
+body{
+    background-color: #A6CCDD;
+}
+
+#container option{
+    color: blue;
+}
+
+#container input[type=submit]:hover{
+    background-color: #01ACC4;
+    color: #f1f1f1;
+}
+
+
+input[type=submit]{
+    height: 150px;
+    width: 65%;
+    font-size: xx-large;
+    border: solid black 2px;
+    background-color: #01ACC4;
+    box-shadow: 10px 5px 5px #3E83A3;
+}
+
+button{
+    vertical-align: middle;
+}
+
+img{
+    width: 5%;
+    vertical-align: middle;
+}
+
+
+li{
+    list-style:none;
+}
+
+body{
+    text-align: center;
+}
+
+

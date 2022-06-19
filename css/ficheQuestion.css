@@ -1,0 +1,21 @@
+body{
+    background-color: #A6CCDD;
+    text-align: center;
+    font-size: xx-large;
+}
+
+
+#content input {
+    width: 75%;
+    height: 200px;
+    font-size: x-large;
+    border: solid black 2px;
+    margin-bottom: 5%;
+    background-color: #01ACC4;
+    box-shadow: 10px 5px 5px #3E83A3;
+}
+
+#content .decoo input {
+    width: 40%;
+    height: 100px;
+}

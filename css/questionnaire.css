@@ -1,0 +1,38 @@
+body{
+    font-size: xx-large;
+    margin-left: 10%;
+    background-color: #A6CCDD;
+}
+
+#content select {
+    margin-top: 3%;
+    text-align: center;
+    width: 60%;
+    height: 150px;
+    font-size: xx-large;
+    background-color: #01ACC4;
+    border: solid black 2px;
+    color:white;
+}
+
+#content button {
+    float: right;
+    width: 50%;
+    height: 200px;
+    font-size: xx-large;
+    background-color: #01ACC4;
+    border: solid black 2px;
+    color:white;
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+
+label{
+    font-size: xx-large;
+}
+
+h1{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
